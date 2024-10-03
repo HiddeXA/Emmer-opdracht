@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=FD66CCE9_002D3958_002D43AD_002D9437_002DC8ED7AED8CDA/@EntryIndexedValue">Emmer opdracht.Tests</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=NUnit3x/@EntryIndexedValue">db4927dd-2e12-48a7-9a84-2b7e3e31b9c8</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=13734012_002D8b14_002D4a47_002D859f_002D5d6f8b7b52c0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CapacityCanOnlyBe80_100Or120" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/UnitTestBucket" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;UnitTestBucket&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3aeee2d1_002D777c_002D4310_002D9244_002D2dbbf2ef2d00/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddContentWithFillFunctionOverCapacityCheckEventIsSend #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::0A83DC13-313B-4592-BE52-0325C2E40A0E::net8.0::BucketClassTest.AddContentWithFillFunctionOverCapacityCheckEventIsSend&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6ca104a7_002Ded95_002D491a_002Da69e_002Dd77949d862d6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CapacityCantBeNegative" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::0A83DC13-313B-4592-BE52-0325C2E40A0E::net8.0::UnitTestBucket.OilbarrelClassTest.CapacityCantBeNegative&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=943eca76_002D1145_002D499e_002Da4fb_002Deeaecbb807a1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddContentWithFillFunctionOverCapacityCheckEventIsSend" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::0A83DC13-313B-4592-BE52-0325C2E40A0E::net8.0::BucketClassTest.AddContentWithFillFunctionOverCapacityCheckEventIsSend&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c567cd43_002Dbbbc_002D41f9_002Db0f7_002D5c36705abaa1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Tests&amp;gt;\&amp;lt;UnitTestBucket&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/UnitTestBucket" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;UnitTestBucket&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d4b939cb_002D8308_002D4c24_002Db69b_002D46f44a69b68d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddContentWithFillFunctionOverCapacityCheckEventIsSend #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::0A83DC13-313B-4592-BE52-0325C2E40A0E::net8.0::BucketClassTest.AddContentWithFillFunctionOverCapacityCheckEventIsSend&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BucketCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BucketCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BucketCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BucketCore/1.0.0": {
+      "type": "project",
+      "path": "../BucketCore/BucketCore.csproj",
+      "msbuildProject": "../BucketCore/BucketCore.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BucketCore >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/hiddealberts/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketConsole/BucketConsole.csproj",
+      "projectName": "BucketConsole",
+      "projectPath": "/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketConsole/BucketConsole.csproj",
+      "packagesPath": "/Users/hiddealberts/.nuget/packages/",
+      "outputPath": "/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketConsole/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/hiddealberts/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketCore/BucketCore.csproj": {
+              "projectPath": "/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketCore/BucketCore.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

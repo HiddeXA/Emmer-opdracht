@@ -1,0 +1,11 @@
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/bin/Debug/net8.0/BucketLibrary.deps.json
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/bin/Debug/net8.0/BucketLibrary.dll
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/bin/Debug/net8.0/BucketLibrary.pdb
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/obj/Debug/net8.0/BucketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/obj/Debug/net8.0/BucketLibrary.AssemblyInfoInputs.cache
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/obj/Debug/net8.0/BucketLibrary.AssemblyInfo.cs
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/obj/Debug/net8.0/BucketLibrary.csproj.CoreCompileInputs.cache
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/obj/Debug/net8.0/BucketLibrary.dll
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/obj/Debug/net8.0/refint/BucketLibrary.dll
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/obj/Debug/net8.0/BucketLibrary.pdb
+/Users/hiddealberts/Desktop/HBO-ICT leerjaar 2/Semester 1/C#/Afteken opdrachten/Emmer opdracht/BucketLibrary/obj/Debug/net8.0/ref/BucketLibrary.dll
